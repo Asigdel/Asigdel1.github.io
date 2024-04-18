@@ -10,7 +10,7 @@ main:
     url: /teaching/    
     
   - title: "RESUME"
-    url: files/CV.pdf
+    url: pages/CV.pdf
         
   - title: "AWARDS"
     url: /year-archive/
