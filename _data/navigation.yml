@@ -9,8 +9,8 @@ main:
   - title: "TALKS"
     url: /teaching/    
     
-  - title: "RESUME"
-    url: pages/CV.pdf
+  # - title: "RESUME"
+   # url: pages/CV.pdf
         
   - title: "AWARDS"
     url: /year-archive/
@@ -18,5 +18,5 @@ main:
   - title: "CONTACT"
     url: /cv/
     
- # - title: "RESUME"
-  #  url: /pages/CV.pdf
+  - title: "RESUME"
+    url: files/CV.pdf
