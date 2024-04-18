@@ -12,7 +12,7 @@ title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Anil Sigdel"
 description              : &description "personal description"
-url                      : "https://Asigdel1.github.io"
+url                      : "https://asigdel.github.io/Asigdel1.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Asigdel/Asigdel1.github.io"
 
