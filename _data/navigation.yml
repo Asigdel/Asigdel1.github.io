@@ -1,22 +1,65 @@
-# main links links
-main:
-  - title: &title "RESEARCH"
-    url: https://scholar.google.com/citations?user=95w5mFgAAAAJ
-    
-  - title: "PUBLICATIONS"
-    url: publications.html    
+name: "Personal-website"
+output_dir: "."
+navbar:
+  title: "A. Sigdel"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Talks"
+      href: talks.html
+    - text: "Software"
+      href: software.html
+    - text: "Media"
+      href: media.html
+    - text: "Blog"
+      href: blog.html
+    - text: "About Me"
+      href: about.html
+output:
+  html_document:
+    theme: flatly
+    css: two.css
 
-  - title: "TALKS"
-    url: /teaching/    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# main links links
+#main:
+#  - title: &title "RESEARCH"
+#    url: https://scholar.google.com/citations?user=95w5mFgAAAAJ
+    
+ # - title: "PUBLICATIONS"
+ #   url: publications.html    
+
+ # - title: "TALKS"
+ #   url: /teaching/    
     
   # - title: "RESUME"
    # url: pages/CV.pdf
         
-  - title: "AWARDS"
-    url: /year-archive/
+ # - title: "AWARDS"
+  #  url: /year-archive/
     
-  - title: "CONTACT"
-    url: /cv/
+ # - title: "CONTACT"
+  #  url: /cv/
     
-  - title: "RESUME"
-    url: files/CV.pdf
+ # - title: "RESUME"
+  #  url: files/CV.pdf
